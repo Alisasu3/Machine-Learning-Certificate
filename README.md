@@ -8,4 +8,4 @@ This certificate represents successful completion of all required coursework and
 ---
 
 ### 📄 Certificate
-[Machine Learning Zoomcamp Certificate](Machine Learning Certificate.pdf)
+[Machine Learning Zoomcamp Certificate](Machine_Learning_Certificate.pdf)
